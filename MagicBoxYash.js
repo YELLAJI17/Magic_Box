@@ -79,6 +79,10 @@ function Check(grid) {
     return true;
     }
 }
+/**
+ * OutPut Matrix:
+ * Last lo manam sadhinchina Magic Box
+ */
 function OPMatrix() {
     while (true) {
         let matrix = MagicBox()
